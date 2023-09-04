@@ -1,0 +1,10 @@
+{
+    "name": "Weather",
+    "description": "Get weather details of your current location",
+    "version": "0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html"
+    },
+    "permissions":["activeTab","geolocation"]
+}
